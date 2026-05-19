@@ -11,8 +11,8 @@ I focus on backend development and enjoy building REST APIs.
 - **Languages:** JavaScript, Python, SQL
 
 ## 🚀 Featured Project
-### [Medicine Expiry Tracking System](YOUR_REPO_LINK_HERE)
-A deployed backend REST API for pharmacy inventory and medicine expiry tracking.
+### [Medicine Expiry Tracking System](github.com/ahsallam05/medicine_tracker_backend.git)
+REST API for pharmacy inventory and medicine expiry tracking.
 Built with Node.js, Express, and PostgreSQL.
 
 ## 📫 Contact
