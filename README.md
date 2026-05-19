@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ahmed Sallam 👋
 
-<!--
-**ahsallam05/ahsallam05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Computer Science student at Mansoura University, Faculty of Computers and Informatics.
+I focus on backend development and enjoy building REST APIs.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, Postman, JWT Auth
+- **Languages:** JavaScript, Python, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### [Medicine Expiry Tracking System](YOUR_REPO_LINK_HERE)
+A deployed backend REST API for pharmacy inventory and medicine expiry tracking.
+Built with Node.js, Express, and PostgreSQL.
+
+## 📫 Contact
+- Email: ahsallam06@gmail.com
+- LinkedIn: linkedin.com/in/ahsallam24
