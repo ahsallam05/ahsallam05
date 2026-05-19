@@ -4,11 +4,10 @@
 I focus on backend development and enjoy building REST APIs.
 
 ## 🛠️ Tech Stack
-- **Runtime:** Node.js
+- **Languages:** JavaScript, Node.js, Python, SQL
 - **Framework:** Express.js
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Postman, JWT Auth
-- **Languages:** JavaScript, Python, SQL
+- **Tools:** Git, Postman, JWT
 
 ## 🚀 Featured Project
 ### [Medicine Expiry Tracking System](https://github.com/ahsallam05/medicine-tracker-backend)
